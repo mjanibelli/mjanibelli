@@ -1,8 +1,10 @@
-### Hey! 😄
-Bem vindo! Eu me chamo Matheus, sou iniciante em programação e estou atualmente aprendendo Python.
+### Bem Vindo! 🙂
+Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
 
-* 💻 Gosto muito da área de Segurança da Informação.
-* 💬 Procurando projetos para começar a colaborar.
+Áreas de interesse:
+* 🔐 Segurança da Informação;
+* 🧠 Inteligência Artificial;
+* 💻 Automação.
 
-Entre em contato comigo: 
+Sinta-se livre para entrar em contato: 
 * 📫 janibellim@gmail.com
